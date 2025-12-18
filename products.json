@@ -1,0 +1,758 @@
+[{
+  "Softdrinks":[
+    {
+       "name": "Coca Cola",
+      "preis": "3,10€",
+        "info": ""
+      
+    },
+    {
+      "name": "Coca Cola Zero",
+      "preis": "3,10€",
+        "info": ""
+      
+    },
+      {
+      "name": "Fanta",
+      "preis": "3,10€",
+        "info": ""
+        
+    },
+      {
+      "name": "Sprite",
+      "preis": "3,10€",
+        "info": ""
+        
+    },
+      {
+      "name": "Mezzo Mix",
+      "preis": "3,10€",
+        "info": ""
+    },
+      {
+      "name": "Schweppes Tonic Water",
+      "preis": "3,10€",
+        "info": ""
+    },
+      {
+      "name": "Schweppes Ginger Ale",
+      "preis": "3,10€",
+        "info": ""
+    },
+      {
+      "name": "Schweppes Bitter Lemon",
+      "preis": "3,10€",
+        "info": ""
+    },
+      {
+      "name": "Schweppes Wild Berry",
+      "preis": "3,10€",
+      "info": ""
+      
+    }
+  ],
+  "Wasser":[
+    {
+      "name": "Aqua Morelli Still",
+      "Größe": "0.25l",
+      "preis": "3,10€"
+    },
+    {
+      "name": "Aqua Morelli Sprudel",
+      "Größe": "0.25l",
+      "preis": "3,10€"
+    },
+    {
+      "name": "Aqua Morelli Still",
+      "Größe": "0.75l",
+      "preis": "7,90€"
+    },
+    {
+      "name": "Aqua Morelli Still",
+      "Größe": "0.75l",
+      "preis": "7,90€"
+    }
+  ],
+  "Red Bull (0,25L)":[
+    {
+      "name": "Classic",
+      "preis":"4,10€"
+    },
+    {
+      "name": "Sugarfree",
+      "preis":"4,10€"
+    },
+    {
+      "name": "White",
+      "preis":"4,10€"
+    },
+    {
+      "name": "Purple",
+      "preis":"4,10€"
+    },
+    {
+      "name": "Aprikose Erdbeere",
+      "preis":"4,10€"
+    },
+    {
+      "name": "Wassermelone",
+      "preis":"4,10€"
+    },
+     {
+      "name": "Juneberry",
+      "preis":"4,10€"
+    },
+     {
+      "name": "Heidelbeere",
+      "preis":"4,10€"
+    },
+     {
+      "name": "Yellow",
+      "preis":"4,10€"
+    },
+     {
+      "name": "Green",
+      "preis":"4,10€"
+    },
+     {
+      "name": "White Peach",
+      "preis":"4,10€"
+    },
+     {
+      "name": "White Peach Sugarfree",
+      "preis":"4,10€"
+    },
+     {
+      "name": "Zero",
+      "preis":"4,10€"
+    }
+  ],
+  "Elephant Bay (0.33L)":[
+    {
+      "name": "Peach",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Peach Zero",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Lemon",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Watermelon",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Pink Grapefruit",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Blueberry",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Mango Pineapple",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Passionfruit",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Pomegranate",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Kirsche",
+      "preis": "4,40€"
+    },
+    {
+      "name": "Lime  Mint",
+      "preis": "4,40€"
+    }
+  ],
+  "Kaffeespezialitäten":[
+    {
+      "name": "cafe Crema",
+      "preis": "3,10€"
+    },
+      {
+      "name": "Cappuccino",
+      "preis": "3,60€"
+    },
+      {
+      "name": "Latte Macchiato",
+      "preis": "3,90€"
+    },
+      {
+      "name": "Espresso",
+      "preis": "2,40€"
+    },
+      {
+      "name": "Doppelter Espresso",
+      "preis": "3,10€"
+    },
+      {
+      "name": "Milchkafee",
+      "preis": "3,40€"
+    },
+      {
+      "name": "Heiße Schokolade",
+      "preis": "3,90€"
+    },
+      {
+      "name": "Heiße Schokolade mit Sanne",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Heiße Milch mit Honig",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Salep",
+      "preis": "4,40€"
+    }
+  ],
+  "Teesorten":[
+    {
+      "name": "Moon Spezial (Minze,Zitrone,Honig)",
+      "preis":"4,40€"
+    },
+    {
+      "name": "Türkischer Cay Klein",
+      "preis":"1,50€"
+    },
+     {
+      "name": "Türkischer Cay Groß",
+      "preis":"2,00€"
+    },
+     {
+      "name": "Dallmayr Tee-alle Sorten",
+      "preis":"3,50€"
+    }
+  ],
+  "Snacks & Fingerfod":[
+    {
+      "name": "Nic Nacs",
+      "preis": "3,90€"
+    },
+     {
+      "name": "Haribo Mix",
+      "preis": "3,90€"
+    },
+     {
+      "name": "Salzstangen",
+      "preis": "2,50€"
+    },
+     {
+      "name": "Tortilla + 2 Dips",
+      "preis": "7,90€"
+    },
+     {
+      "name": "Haselnüsse",
+      "preis": "5,90€"
+    },
+     {
+      "name": "Cerez / Nuss mix",
+      "preis": "6,60€"
+    },
+     {
+      "name": "Snickers/Twix/Bounty",
+      "preis": "2,50€"
+    },
+     {
+      "name": "Snickers/Twix/Bounty",
+      "preis": "3,50€"
+    },
+     {
+      "name": "Pommes Ketchup/Mayo",
+      "preis": "4,50€"
+    },
+     {
+      "name": "Wedges mit sour Cream",
+      "preis": "5,50€"
+    },
+     {
+      "name": "Pommes Ketchup/Mayo",
+      "preis": "4,50€"
+    },
+     {
+      "name": "Chicken Nuggets 6",
+      "preis": "4,90€"
+    },
+     {
+      "name": "Chicken Nuggets 9",
+      "preis": "6,90€"
+    },
+     {
+      "name": "Chili Cheese Nuggets 6",
+      "preis": "4,90€"
+    },
+     {
+      "name": "Chili Cheese Nuggets 9",
+      "preis": "6,90€"
+    },
+     {
+      "name": "Mozzarella Sticks 6",
+      "preis": "5,50€"
+    },
+      {
+      "name": "Mozzarella Sticks 9",
+      "preis": "6,90€"
+    },
+      {
+      "name": "Chicken Finger 6",
+      "preis": "5,90€"
+    },
+     {
+      "name": "Chicken Nuggets 9",
+      "preis": "7,90€"
+    },
+    {
+      "name": "Hähnchenteile ohne Knochen 4stk",
+      "preis": "8,90€"
+    },
+    {
+      "name": "Platte Mix Inkl 2 Dips",
+      "preis": "14,90€"
+    },
+    {
+      "name": "Ketchup/Mayo extra",
+      "preis": "0,90€"
+    },
+    {
+      "name": "Dip nach Wahl",
+      "preis": "1,50€"
+    }
+
+  ],
+  "Baguettes":[
+    {
+      "name":"Sucuck Baguette",
+      "preis": "6,90€"
+    },
+    {
+      "name":"Putenbrust Baguette",
+      "preis": "6,90€"
+    },
+    {
+      "name":"Thunfisch Baguette",
+      "preis": "6,90€"
+    },
+    {
+      "name":"Veggie Baguette",
+      "preis": "5,90€"
+    },
+    {
+      "name":"Nugget Baguette",
+      "preis": "6,90€"
+    },
+    {
+      "name": "Extra Jalapeño",
+      "preis": "0,70€"
+    },
+    {
+      "name":"Dopple käse",
+      "preis": "1,50€"
+    }
+    
+  ],
+  "Flaschen":[
+    {
+      "name": "Grey Goose Vodka",
+      "preis": "119€"
+    },
+      {
+      "name": "Belvedere Vodka",
+      "preis": "119€"
+    },
+      {
+      "name": "Absolut Vodka",
+      "preis": "89€"
+    },
+      {
+      "name": "Jack Daniels",
+      "preis": "89€"
+    },
+      {
+      "name": "Jack Daniels Gentleman Jack",
+      "preis": "109€"
+    },
+    {
+      "name": "Chivas Regal 12",
+      "preis": "109€"
+    },
+    {
+      "name": "Hendricks Gin",
+      "preis": "99€"
+    },
+    {
+      "name": "Bombay Saphire Gin",
+      "preis": "89€"
+    },
+    {
+      "name": "Havanna No.3 Rum",
+      "preis": "99€"
+    },
+    {
+      "name": "Osborne Rum",
+      "preis": "89€"
+    },
+     {
+      "name": "Bacardi Rum",
+      "preis": "89€"
+    },
+     {
+      "name": "Moet Ice",
+      "preis": "119€"
+    },
+     {
+      "name": "Moet Ice Rose",
+      "preis": "119€"
+    },
+     {
+      "name": "Dom Perignon",
+      "preis": "349€"
+    },
+     {
+      "name": "Tekirda Gold Raki",
+      "preis": "99€"
+    },
+     {
+      "name": "Yeni Raki",
+      "preis": "89€"
+    },
+     {
+      "name": "Jägermeister",
+      "preis": "89€"
+    }
+    
+  ],
+  "Bier & Wein":[
+     {
+       "name": "Desperados",
+       "preis": "4,60€"
+     },
+     {
+       "name": "Corona",
+       "preis": "4,60€"
+     },
+     {
+       "name": "Becks/Becks Gold",
+       "preis": "3,60€"
+     },
+     {
+       "name": "Franziskaner Weizen / Alkohol frei",
+       "preis": "4,60€"
+     },
+     {
+       "name": "Bananen Weizen ",
+       "preis": "4,60€"
+     },
+    {
+      "name": "0.2 Wein nach Wahl",
+      "preis": "7,70€"
+    }
+  ],
+  "Säfte Granini":[
+    {
+      "name": "Apfel",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Orange",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Kirsch",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Banane",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Maracuja",
+      "preis": "4,40€"
+    },
+     {
+      "name": "Atom",
+      "preis": "4,90€"
+    },
+     {
+      "name": "KiBa",
+      "preis": "4,60€"
+    }
+  ],
+  "Alk-free Cocktails":[
+    {
+    "name": "Ipanema",
+    "preis": "6,90€"
+    },
+     {
+    "name": "Safer Mojito",
+    "preis": "6,90€"
+    },
+     {
+    "name": "Coconut Kiss",
+    "preis": "6,90€"
+    },
+     {
+    "name": "Virgin Colada",
+    "preis": "6,90€"
+    },
+     {
+    "name": "Strawberry Kiss",
+    "preis": "6,90€"
+    },
+     {
+    "name": "San Francisco",
+    "preis": "6,90€"
+    },
+     {
+    "name": "Safer Solero",
+    "preis": "6,90€"
+    }
+    ],
+  "Cocktails inc Alk":[
+    {
+      "name": "Mojito",
+      "preis": "7,90€"
+    },
+     {
+    "name": "Caipirinha",
+    "preis": "7,90€"
+    },
+     {
+    "name": "Sex on the Beach",
+    "preis": "8,50€"
+    },
+    {
+    "name": "Pina Colada",
+    "preis": "8,50€"
+    },
+    {
+    "name": "Strawberry Colada",
+    "preis": "8,50€"
+    },
+    {
+    "name": "Solero",
+    "preis": "8,50€"
+    },
+    {
+    "name": "Lynchburg Lemonade",
+    "preis": "8,90€"
+    },
+    {
+    "name": "Swimming Pool",
+    "preis": "8,90€"
+    },
+    {
+    "name": "Long Island Iced Tea",
+    "preis": "9,90€"
+    },
+    {
+    "name": "Zombie",
+    "preis": "9,50€"
+    },
+    {
+    "name": "43 Sour",
+    "preis": "8,50€"
+    },
+    {
+    "name": "Razz Mojito",
+    "preis": "9,90€"
+    }
+  ],
+  "Longdrinks":[
+    {
+      "name": "Whiskey Cola",
+      "preis": "7,90€"
+    },
+      {
+      "name": "Wodka (Red-Bull,Saft etc)",
+      "preis": "7,90€"
+    },
+      {
+      "name": "Gin Tonic",
+      "preis": "7,90€"
+    },
+      {
+      "name": "Flying Hirsch",
+      "preis": "7,90€"
+    },
+      {
+      "name": "Osborne Cola",
+      "preis": "7,90€"
+    },
+      {
+      "name": "Havana Cola",
+      "preis": "7,90€"
+    },
+      {
+      "name": "7 Sweets",
+      "preis": "7,90€"
+    }
+  ],
+  "SHISHA SORTEN":[
+    {
+      "name": "Doppelapfel",
+      "Beschreibung": "Kräftiger Doppelapfel mit intensiver Süße und Anisnote",
+      "preis": "13,00€"
+    },
+    {
+      "name": "Traube-Minz",
+      "Beschreibung": "Saftige Traube Kombiniert mit frischer Minze-ausgewogen & beliebt",
+      "preis": "13,00€"
+    },
+    {
+      "name": "Zitrone-Minz",
+      "Beschreibung": "Spritzige Zitrone trifft auf kühlende Minze-leicht & Belebend",
+      "preis": "13,00€"
+    },
+    {
+      "name": "Minz",
+      "Beschreibung": "Pure,eiskalte Minze-Ideal für Starke frische",
+      "preis": "13,00€"
+    },
+    {
+      "name": "Lemon Fresh",
+      "Beschreibung": "Zitrone & Ice-Prickeln frisch",
+      "preis": "14€"
+    },
+    {
+      "name": "Ice Kaktuz",
+      "Beschreibung": "Kaktus,Feige & Ice - exotisch & Kühlend",
+      "preis": "14€"
+    },
+    {
+      "name": "Black Nana",
+      "Beschreibung": "Schwarze Traube mit Cooling-Vollmundig & frisch",
+      "preis": "14€"
+    },
+    {
+      "name": "Lemon Chill",
+      "Beschreibung": "Intensiver Zitrone mit Starkem Cooling",
+      "preis": "14€"
+    },
+    {
+      "name": "Cold Peach",
+      "Beschreibung": "Fruchtige Pfirsich mit leichter Kühle",
+      "preis": "14€"
+    },
+    {
+      "name": "Watermelon Chill",
+      "Beschreibung": "Wassermelone mit Cooling-sommerlich & erfrischend",
+      "preis": "14€"
+    },
+    {
+      "name": "Blue",
+      "Beschreibung": "Süße reife Blaubeeren",
+      "preis": "14€"
+    },
+    {
+      "name": "African Queen",
+      "Beschreibung": "Intensiver Exotischer Fruchtmix",
+      "preis": "14€"
+    },
+    {
+      "name": "Blut gegen Blut",
+      "Beschreibung": "Zitrone trifft Drachenfrucht-außergewöhnlich & Spannend",
+      "preis": "14€"
+    },
+    {
+      "name": "Sommer in Beirut",
+      "Beschreibung": "Himbeere,Wassermelone & Zitrone Sommerlich frisch",
+      "preis": "14€"
+    },
+    {
+      "name": "Löwenherz",
+      "Beschreibung": "Himbeere,Pfirsich & Drachenfrucht-süß & exotisch",
+      "preis": "14€"
+    },
+    {
+      "name": "100%",
+      "Beschreibung": "Frische Limette & süßer Honig perfect ausbalanciert",
+      "preis": "14€"
+    },
+    {
+      "name": "Blackbox",
+      "Beschreibung": "Acai,Guarana & Zitrone-fruchtig-herb & energetisch",
+      "preis": "14€"
+    },
+    {
+      "name": "Ringle Rangle",
+      "Beschreibung": "Grapefruit, Limette & Maracuja-tropisch-spritzig",
+      "preis": "14€"
+    },
+    {
+      "name": "Love 66",
+      "Beschreibung": "Tropische Früchte,Maracuja & Minze-Modern & frisch",
+      "preis": "14€"
+    },
+    {
+      "name": "Okolom",
+      "Beschreibung": "Fruchtig-süßer Geschmack mit orientalischer Note",
+      "preis": "14€"
+    },
+    {
+      "name": "Okolom Cranberry",
+      "Beschreibung": "Okolom Verfeinert mit herber Cranberry-intensiv & edel",
+      "preis": "14€"
+    },
+    {
+      "name": "Da Bomb-Zitronenkuchen",
+      "Beschreibung": "Süßer,Cremiger Zitronenkuchen-Geschmack",
+      "preis": "14€"
+    },
+    {
+      "name": "Falim-Kaugummi",
+      "Beschreibung": "Nostalgisches Kaugummi-Aroma",
+      "preis": "14€"
+    },
+    {
+      "name": "Falim Honig",
+      "Beschreibung": "Süßer Honig Vereint mit Falim-kaugummiaroma",
+      "preis": "14€"
+    },
+    {
+      "name": "Massiv Bruderherz",
+      "Beschreibung": "Intensive Drachenfrucht- kräftig & hochwertig",
+      "preis": "14€"
+    }
+  ],
+  "Shots":[
+    {
+      "name": "Berliner Luft",
+      "preis": "2,90"
+    },
+    {
+      "name": "Ficken",
+      "preis": "2,90"
+    },
+    {
+      "name": "Limoncello",
+      "preis": "2,90"
+    },
+    {
+      "name": "Tequila",
+      "preis": "2,90"
+    },
+    {
+      "name": "Jägermeister",
+      "preis": "2,90"
+    },
+    {
+      "name": "Vodka",
+      "preis": "2,90"
+    },
+    {
+      "name": "Whiskey",
+      "preis": "2,90"
+    }
+  ]
+}
+  
+]
